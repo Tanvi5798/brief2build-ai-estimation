@@ -1,0 +1,123 @@
+
+[
+  {
+    "id": "T01",
+    "brief": "Stainless steel bracket, 120 mm long, 40 mm wide, 3 mm thick, brushed finish, with 8 mm holes.",
+    "expected_spec": {"product_type": "bracket", "material": "stainless steel", "length_mm": 120, "width_mm": 40, "thickness_mm": 3, "finish": "brushed", "hole_diameter_mm": 8},
+    "expected_sku": "BR002"
+  },
+  {
+    "id": "T02",
+    "brief": "Mild steel bracket 100 x 40 x 3 mm, powder coated, with 8 mm holes.",
+    "expected_spec": {"product_type": "bracket", "material": "mild steel", "length_mm": 100, "width_mm": 40, "thickness_mm": 3, "finish": "powder coated", "hole_diameter_mm": 8},
+    "expected_sku": "BR004"
+  },
+  {
+    "id": "T03",
+    "brief": "Aluminium mounting plate, 120 mm by 100 mm, 3 mm thick, brushed, 8 mm hole diameter.",
+    "expected_spec": {"product_type": "mounting plate", "material": "aluminium", "length_mm": 120, "width_mm": 100, "thickness_mm": 3, "finish": "brushed", "hole_diameter_mm": 8},
+    "expected_sku": "MP016"
+  },
+  {
+    "id": "T04",
+    "brief": "Stainless steel angle bracket, 150 x 60 x 4 mm, brushed finish, 10 mm holes.",
+    "expected_spec": {"product_type": "angle bracket", "material": "stainless steel", "length_mm": 150, "width_mm": 60, "thickness_mm": 4, "finish": "brushed", "hole_diameter_mm": 10},
+    "expected_sku": "AN024"
+  },
+  {
+    "id": "T05",
+    "brief": "Polished stainless steel bracket measuring 200 x 60 x 5 mm with 12 mm holes.",
+    "expected_spec": {"product_type": "bracket", "material": "stainless steel", "length_mm": 200, "width_mm": 60, "thickness_mm": 5, "finish": "polished", "hole_diameter_mm": 12},
+    "expected_sku": "BR010"
+  },
+  {
+    "id": "T06",
+    "brief": "Aluminium bracket, 100 x 40 x 3 mm, brushed finish, 6 mm holes.",
+    "expected_spec": {"product_type": "bracket", "material": "aluminium", "length_mm": 100, "width_mm": 40, "thickness_mm": 3, "finish": "brushed", "hole_diameter_mm": 6},
+    "expected_sku": "BR006"
+  },
+  {
+    "id": "T07",
+    "brief": "Stainless steel bracket 80 x 30 x 2 mm, brushed, 6 mm hole diameter.",
+    "expected_spec": {"product_type": "bracket", "material": "stainless steel", "length_mm": 80, "width_mm": 30, "thickness_mm": 2, "finish": "brushed", "hole_diameter_mm": 6},
+    "expected_sku": "BR008"
+  },
+  {
+    "id": "T08",
+    "brief": "Mild steel bracket, 120 x 50 x 4 mm, black finish, 10 mm holes.",
+    "expected_spec": {"product_type": "bracket", "material": "mild steel", "length_mm": 120, "width_mm": 50, "thickness_mm": 4, "finish": "black", "hole_diameter_mm": 10},
+    "expected_sku": "BR005"
+  },
+  {
+    "id": "T09",
+    "brief": "Aluminium angle bracket, 100 x 50 x 3 mm, polished, 6 mm holes.",
+    "expected_spec": {"product_type": "angle bracket", "material": "aluminium", "length_mm": 100, "width_mm": 50, "thickness_mm": 3, "finish": "polished", "hole_diameter_mm": 6},
+    "expected_sku": "AN023"
+  },
+  {
+    "id": "T10",
+    "brief": "Mounting plate in stainless steel, 100 x 100 x 3 mm, brushed finish, 8 mm holes.",
+    "expected_spec": {"product_type": "mounting plate", "material": "stainless steel", "length_mm": 100, "width_mm": 100, "thickness_mm": 3, "finish": "brushed", "hole_diameter_mm": 8},
+    "expected_sku": "MP011"
+  },
+  {
+    "id": "T11",
+    "brief": "Mild steel mounting plate, 120 x 100 x 4 mm, black finish, 10 mm holes.",
+    "expected_spec": {"product_type": "mounting plate", "material": "mild steel", "length_mm": 120, "width_mm": 100, "thickness_mm": 4, "finish": "black", "hole_diameter_mm": 10},
+    "expected_sku": "MP012"
+  },
+  {
+    "id": "T12",
+    "brief": "Polished aluminium mounting plate, 100 x 80 x 3 mm, 6 mm holes.",
+    "expected_spec": {"product_type": "mounting plate", "material": "aluminium", "length_mm": 100, "width_mm": 80, "thickness_mm": 3, "finish": "polished", "hole_diameter_mm": 6},
+    "expected_sku": "MP013"
+  },
+  {
+    "id": "T13",
+    "brief": "Stainless steel mounting plate, 150 x 100 x 4 mm, brushed, 10 mm holes.",
+    "expected_spec": {"product_type": "mounting plate", "material": "stainless steel", "length_mm": 150, "width_mm": 100, "thickness_mm": 4, "finish": "brushed", "hole_diameter_mm": 10},
+    "expected_sku": "MP014"
+  },
+  {
+    "id": "T14",
+    "brief": "Mild steel angle bracket, 120 x 60 x 4 mm, black finish, 10 mm holes.",
+    "expected_spec": {"product_type": "angle bracket", "material": "mild steel", "length_mm": 120, "width_mm": 60, "thickness_mm": 4, "finish": "black", "hole_diameter_mm": 10},
+    "expected_sku": "AN022"
+  },
+  {
+    "id": "T15",
+    "brief": "Stainless steel angle bracket, 100 x 50 x 3 mm, brushed, 8 mm holes.",
+    "expected_spec": {"product_type": "angle bracket", "material": "stainless steel", "length_mm": 100, "width_mm": 50, "thickness_mm": 3, "finish": "brushed", "hole_diameter_mm": 8},
+    "expected_sku": "AN021"
+  },
+  {
+    "id": "T16",
+    "brief": "Stainless steel bracket, 120 mm long and 40 mm wide.",
+    "expected_spec": {"product_type": "bracket", "material": "stainless steel", "length_mm": 120, "width_mm": 40},
+    "expected_sku": null
+  },
+  {
+    "id": "T17",
+    "brief": "Need a mounting plate, 100 mm by 80 mm. Material and thickness are not specified.",
+    "expected_spec": {"product_type": "mounting plate", "length_mm": 100, "width_mm": 80, "material": null, "thickness_mm": null},
+    "expected_sku": null
+  },
+  {
+    "id": "T18",
+    "brief": "Please quote an aluminium angle bracket with 8 mm holes. Dimensions and finish are not specified.",
+    "expected_spec": {"product_type": "angle bracket", "material": "aluminium", "hole_diameter_mm": 8, "length_mm": null, "width_mm": null, "thickness_mm": null, "finish": null},
+    "expected_sku": null
+  },
+  {
+    "id": "T19",
+    "brief": "Stainless steel bracket, length 100 mm and length 120 mm, width 40 mm, thickness 3 mm.",
+    "expected_spec": {"product_type": "bracket", "material": "stainless steel", "length_mm": null, "width_mm": 40, "thickness_mm": 3},
+    "expected_sku": null
+  },
+  {
+    "id": "T20",
+    "brief": "Need a mounting plate approximately 100 to 150 mm long, 100 mm wide, made of stainless steel.",
+    "expected_spec": {"product_type": "mounting plate", "material": "stainless steel", "length_mm": null, "width_mm": 100},
+    "expected_sku": null
+  }
+]

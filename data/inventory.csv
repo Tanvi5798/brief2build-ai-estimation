@@ -1,0 +1,31 @@
+sku,product_type,material,length_mm,width_mm,thickness_mm,finish,hole_diameter_mm,stock_quantity
+BR001,bracket,stainless steel,100,40,3,brushed,8,120
+BR002,bracket,stainless steel,120,40,3,brushed,8,85
+BR003,bracket,stainless steel,150,50,4,polished,10,60
+BR004,bracket,mild steel,100,40,3,powder coated,8,200
+BR005,bracket,mild steel,120,50,4,black,10,150
+BR006,bracket,aluminium,100,40,3,brushed,6,90
+BR007,bracket,aluminium,120,40,4,polished,8,75
+BR008,bracket,stainless steel,80,30,2,brushed,6,110
+BR009,bracket,mild steel,150,50,5,galvanized,10,95
+BR010,bracket,stainless steel,200,60,5,polished,12,40
+MP011,mounting plate,stainless steel,100,100,3,brushed,8,70
+MP012,mounting plate,mild steel,120,100,4,black,10,130
+MP013,mounting plate,aluminium,100,80,3,polished,6,65
+MP014,mounting plate,stainless steel,150,100,4,brushed,10,50
+MP015,mounting plate,mild steel,150,150,5,galvanized,12,100
+MP016,mounting plate,aluminium,120,100,3,brushed,8,80
+MP017,mounting plate,stainless steel,200,150,5,polished,12,35
+MP018,mounting plate,mild steel,100,80,3,black,8,160
+MP019,mounting plate,aluminium,150,100,4,brushed,10,55
+MP020,mounting plate,stainless steel,80,80,2,polished,6,90
+AN021,angle bracket,stainless steel,100,50,3,brushed,8,100
+AN022,angle bracket,mild steel,120,60,4,black,10,140
+AN023,angle bracket,aluminium,100,50,3,polished,6,85
+AN024,angle bracket,stainless steel,150,60,4,brushed,10,45
+AN025,angle bracket,mild steel,150,75,5,galvanized,12,90
+AN026,angle bracket,aluminium,120,60,3,brushed,8,70
+AN027,angle bracket,stainless steel,200,75,5,polished,12,30
+AN028,angle bracket,mild steel,80,40,3,black,6,175
+AN029,angle bracket,aluminium,150,60,4,brushed,10,60
+AN030,angle bracket,stainless steel,80,40,2,polished,6,105

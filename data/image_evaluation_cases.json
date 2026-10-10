@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": "I01",
+    "image": "data/images/holes_0.png",
+    "expected_hole_count": 0,
+    "case_type": "zero_hole_negative_case",
+    "expected_review_required": true
+  },
+  {
+    "id": "I02",
+    "image": "data/images/holes_3.png",
+    "expected_hole_count": 3,
+    "case_type": "synthetic_count",
+    "expected_review_required": false
+  },
+  {
+    "id": "I03",
+    "image": "data/images/holes_5.png",
+    "expected_hole_count": 5,
+    "case_type": "synthetic_count",
+    "expected_review_required": false
+  },
+  {
+    "id": "I04",
+    "image": "data/images/holes_8.png",
+    "expected_hole_count": 8,
+    "case_type": "synthetic_count",
+    "expected_review_required": false
+  },
+  {
+    "id": "I05",
+    "image": "data/images/holes_10.png",
+    "expected_hole_count": 10,
+    "case_type": "synthetic_count",
+    "expected_review_required": false
+  },
+  {
+    "id": "I06",
+    "image": "data/images/holes_12.png",
+    "expected_hole_count": 12,
+    "case_type": "synthetic_count",
+    "expected_review_required": false
+  }
+]
