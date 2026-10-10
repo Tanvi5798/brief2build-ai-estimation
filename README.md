@@ -1,4 +1,3 @@
-
 # Brief to Priced Estimate
 
 ## Overview
@@ -178,3 +177,8 @@ Final evaluation metrics should be reported in `EVALUATION.md` only after the ev
 ## Responsible Use of AI
 
 The language model assists with extracting product attributes; deterministic validation and matching logic handle subsequent checks. Uncertain or conflicting results should be reviewed by a human rather than treated as verified specifications.
+
+
+### Use of AI Tools
+
+I used the Gemini API to extract structured product specifications from natural-language briefs and used ChatGPT as a development assistant for implementation guidance, debugging, test design, and documentation. I reviewed and adapted AI-generated suggestions rather than treating them as authoritative: for example, I adjusted the schema sent to Gemini to remove unsupported schema keywords while retaining application-side validation, and kept inventory ranking deterministic instead of delegating SKU selection to the language model. I also used automated tests and explicit review flags to check outputs and document uncertainty. The current evaluation limitations—including incomplete live text evaluation due to API limits and the lack of real-photo validation—are reported rather than presented as successful results.
